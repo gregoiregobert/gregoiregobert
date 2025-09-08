@@ -12,6 +12,7 @@ Welcome to my GitHub profile!
 
 [Linear Regression](https://github.com/gregoiregobert/Linear-regression)
 <!-- ![Linear Regression Demo](https://github.com/gregoiregobert/Linear-regression/blob/main/assets/linear_reg.gif?raw=true) -->
+![](https://github.com/gregoiregobert/Linear-regression/blob/main/assets/line_reg.gif?raw=true)
 
 ---
 
