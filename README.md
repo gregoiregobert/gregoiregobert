@@ -10,10 +10,10 @@ Welcome to my GitHub profile!
 
 ## Projects
 
-|  |  |
+| Linear Regression | DSLR |
 |---:|:---|
-| [![Linear Regression](https://github.com/gregoiregobert/Linear-regression/blob/main/assets/line_reg.gif?raw=true)](https://github.com/gregoiregobert/Linear-regression) | [![DSLR](https://github.com/gregoiregobert/DSLR/blob/main/assets/dslr_3d_graph.gif?raw=true)](https://github.com/gregoiregobert/DSLR) |
-| **Linear Regression** | **DSLR** |
+| [![Linear Regression](https://github.com/gregoiregobert/Linear-regression/blob/main/assets/line_reg.gif?raw=true)](https://github.com/gregoiregobert/Linear-regression) <br> **Linear Regression** | [![DSLR](https://github.com/gregoiregobert/DSLR/blob/main/assets/dslr_3d_graph.gif?raw=true)](https://github.com/gregoiregobert/DSLR) <br> **DSLR** |
+
 
 
 ---
