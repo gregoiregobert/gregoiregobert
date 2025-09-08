@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 
 <p align="center">
   <a href="https://github.com/gregoiregobert/Linear-regression">
-    <img src="https://github.com/gregoiregobert/Linear-regression/blob/main/assets/line_reg.gif?raw=true" width="300"><br>
+    <img src="https://github.com/gregoiregobert/Linear-regression/blob/main/assets/linear_reg.gif?raw=true" width="300"><br>
     <b>Linear Regression</b>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
