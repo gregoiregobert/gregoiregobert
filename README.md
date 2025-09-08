@@ -10,5 +10,12 @@ Welcome to my GitHub profile!
 - Pianist and tennis player 🎹🎾
 
 ## Projects
-Check out my Linear Regression project:
-[Linear Regression](https://github.com/gregoiregobert/Linear-regression)
+# Linear Regression Project 🚗📈
+
+![Linear Regression Demo](assets/linear_reg.gif)
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)  
+[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+
+---
+
