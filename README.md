@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile!
 
-![Linear Regression Demo](https://github.com/gregoiregobert/Linear-regression/blob/main/assets/linear_reg.gif?raw=true)
 
 ## About Me
 - Data Engineer in training at école 42
@@ -11,11 +10,12 @@ Welcome to my GitHub profile!
 
 ## Projects
 # Linear Regression Project 🚗📈
+![Linear Regression Demo](https://github.com/gregoiregobert/Linear-regression/blob/main/assets/linear_reg.gif?raw=true)
 
-![Linear Regression Demo](assets/linear_reg.gif)
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)  
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+<p align="center">
+  <img src="assets/linear_reg.gif" alt="Linear Regression Demo" width="600"/>
+</p>
 
 ---
 
