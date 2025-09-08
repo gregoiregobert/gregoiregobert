@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 
 ## Projects
 # Linear Regression Project 🚗📈
-![Linear Regression Demo](https://github.com/gregoiregobert/Linear-regression/blob/main/assets/linear_reg.gif?raw=true)
+<!-- ![Linear Regression Demo](https://github.com/gregoiregobert/Linear-regression/blob/main/assets/linear_reg.gif?raw=true) -->
 
 
 <p align="center">
