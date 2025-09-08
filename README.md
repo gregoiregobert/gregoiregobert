@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Grégoire Gobert 👋
 
-<!--
-**gregoiregobert/gregoiregobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+![Linear Regression Demo](https://github.com/gregoiregobert/Linear-regression/blob/main/assets/linear_reg.gif?raw=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Data Engineer in training at école 42
+- Passionate about data analysis and AI
+- Pianist and tennis player 🎹🎾
+
+## Projects
+Check out my Linear Regression project:
+[Linear Regression](https://github.com/gregoiregobert/Linear-regression)
