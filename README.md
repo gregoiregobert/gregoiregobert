@@ -9,6 +9,8 @@ Welcome to my GitHub profile!
 - Pianist and tennis player 🎹🎾
 
 ## Projects
+
+[Linear Regression](https://github.com/gregoiregobert/Linear-regression)
 <!-- ![Linear Regression Demo](https://github.com/gregoiregobert/Linear-regression/blob/main/assets/linear_reg.gif?raw=true) -->
 
 ---
