@@ -10,11 +10,17 @@ Welcome to my GitHub profile!
 
 ## Projects
 
-[Linear Regression](https://github.com/gregoiregobert/Linear-regression)  
-![](https://github.com/gregoiregobert/Linear-regression/blob/main/assets/line_reg.gif?raw=true)  
-  
-![DSLR](https://github.com/gregoiregobert/DSLR)  
-![](https://github.com/gregoiregobert/DSLR/blob/main/assets/dslr_3d_graph.gif?raw=true)
+<p align="center">
+  <a href="https://github.com/gregoiregobert/Linear-regression">
+    <img src="https://github.com/gregoiregobert/Linear-regression/blob/main/assets/line_reg.gif?raw=true" width="300"><br>
+    <b>Linear Regression</b>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gregoiregobert/DSLR">
+    <img src="https://github.com/gregoiregobert/DSLR/blob/main/assets/dslr_3d_graph.gif?raw=true" width="300"><br>
+    <b>DSLR</b>
+  </a>
+</p>
 
 ---
 
