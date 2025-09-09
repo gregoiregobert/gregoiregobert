@@ -20,5 +20,5 @@ Welcome to my GitHub profile!
 # C Project
 
 | Philosophers |
-|---:|:---|
+|:------:|
 | [![](https://github.com/gregoiregobert/Philosophers/blob/master/assets/philo.gif?raw=true)](https://github.com/gregoiregobert/Philosophers) |
