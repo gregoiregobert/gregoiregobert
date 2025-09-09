@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 # Data
 
 | Linear Regression | DSLR |
-|:---:|---:|
+|:---:|:---:|
 | [![Linear Regression](https://github.com/gregoiregobert/Linear-regression/blob/main/assets/line_reg.gif?raw=true)](https://github.com/gregoiregobert/Linear-regression) | [![DSLR](https://github.com/gregoiregobert/DSLR/blob/main/assets/dslr_3d_graph.gif?raw=true)](https://github.com/gregoiregobert/DSLR) |
 
 ---
