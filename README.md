@@ -16,18 +16,16 @@ Welcome to my GitHub profile!
 |:---:|:---:|
 | [![Linear Regression](https://github.com/gregoiregobert/Linear-regression/blob/main/assets/line_reg.gif?raw=true)](https://github.com/gregoiregobert/Linear-regression) | [![DSLR](https://github.com/gregoiregobert/DSLR/blob/main/assets/dslr_3d_graph.gif?raw=true)](https://github.com/gregoiregobert/DSLR) |
 
----
-# C Project
-
-| Philosophers |
-|:---:|
-| [![](https://github.com/gregoiregobert/Philosophers/blob/master/assets/philo.gif?raw=true)](https://github.com/gregoiregobert/Philosophers) |
-
----
 # Web
 
 | Pong |
 |:---:|
 | [![](https://github.com/gregoiregobert/Pong/blob/master/assets/pong.gif?raw=true)](https://github.com/gregoiregobert/Pong) |
+
+# C Project
+
+| Philosophers |
+|:---:|
+| [![](https://github.com/gregoiregobert/Philosophers/blob/master/assets/philo.gif?raw=true)](https://github.com/gregoiregobert/Philosophers) |
 
 
