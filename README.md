@@ -22,3 +22,12 @@ Welcome to my GitHub profile!
 | Philosophers |
 |:---:|
 | [![](https://github.com/gregoiregobert/Philosophers/blob/master/assets/philo.gif?raw=true)](https://github.com/gregoiregobert/Philosophers) |
+
+---
+# Web
+
+| Pong |
+|:---:|
+| [![](https://github.com/gregoiregobert/Pong/blob/master/assets/pong.gif?raw=true)](https://github.com/gregoiregobert/Pong) |
+
+
