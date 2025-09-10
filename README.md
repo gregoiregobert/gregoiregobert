@@ -8,21 +8,21 @@ Welcome to my GitHub profile!
 - Passionate about data analysis and AI
 - Pianist and tennis player 🎹🎾
 
-## Projects
+# Projects
 
-# Data
+## Data AI
 
 | Linear Regression | DSLR |
 |:---:|:---:|
 | [![Linear Regression](https://github.com/gregoiregobert/Linear-regression/blob/main/assets/line_reg.gif?raw=true)](https://github.com/gregoiregobert/Linear-regression) | [![DSLR](https://github.com/gregoiregobert/DSLR/blob/main/assets/dslr_3d_graph.gif?raw=true)](https://github.com/gregoiregobert/DSLR) |
 
-# Web
+## Web
 
 | Pong |
 |:---:|
 | [![](https://github.com/gregoiregobert/Pong/blob/master/assets/pong.gif?raw=true)](https://github.com/gregoiregobert/Pong) |
 
-# C Project
+## C Project
 
 | Philosophers |
 |:---:|
