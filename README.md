@@ -14,7 +14,7 @@ Welcome to my GitHub profile!
 
 | Linear Regression | DSLR | Gomoku |
 |:---:|:---:|:---:|
-| [![Linear Regression](https://github.com/gregoiregobert/Linear-regression/blob/main/assets/line_reg.gif?raw=true)](https://github.com/gregoiregobert/Linear-regression) | [![DSLR](https://github.com/gregoiregobert/DSLR/blob/main/assets/dslr_3d_graph.gif?raw=true)](https://github.com/gregoiregobert/DSLR) | [![Gomoku](https://github.com/gregoiregobert/Gomoku/blob/main/gomoku.webp)](https://github.com/gregoiregobert/Gomoku)
+| [![Linear Regression](https://github.com/gregoiregobert/Linear-regression/blob/main/assets/line_reg.gif?raw=true)](https://github.com/gregoiregobert/Linear-regression) | [![DSLR](https://github.com/gregoiregobert/DSLR/blob/main/assets/dslr_3d_graph.gif?raw=true)](https://github.com/gregoiregobert/DSLR) | [![Gomoku](https://github.com/gregoiregobert/Gomoku/blob/main/assets/Gomoku.gif?raw=true)](https://github.com/gregoiregobert/Gomoku)
 
 
 ## Web
