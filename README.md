@@ -13,20 +13,20 @@ Welcome to my GitHub profile!
 
 | Linear Regression | DSLR | Gomoku |
 |:---:|:---:|:---:|
-| [![Linear Regression](https://github.com/gregoiregobert/Linear-regression/blob/main/assets/line_reg.gif?raw=true)](https://github.com/gregoiregobert/Linear-regression) | [![DSLR](https://github.com/gregoiregobert/DSLR/blob/main/assets/dslr_3d_graph.gif?raw=true)](https://github.com/gregoiregobert/DSLR) | [![Gomoku](https://github.com/gregoiregobert/Gomoku/blob/main/assets/Gomoku.gif?raw=true)](https://github.com/gregoiregobert/Gomoku) |
+| <a href="https://github.com/gregoiregobert/Linear-regression"><img src="https://github.com/gregoiregobert/Linear-regression/blob/main/assets/line_reg.gif?raw=true" width="250"></a> | <a href="https://github.com/gregoiregobert/DSLR"><img src="https://github.com/gregoiregobert/DSLR/blob/main/assets/dslr_3d_graph.gif?raw=true" width="250"></a> | <a href="https://github.com/gregoiregobert/Gomoku"><img src="https://github.com/gregoiregobert/Gomoku/blob/main/assets/Gomoku.gif?raw=true" width="250"></a> |
 
 | Total Perspective Vortex |
 |:---:|
-| [![Total Perspective Vortex](https://github.com/gregoiregobert/total-perspective-vortex/blob/main/eeg_animation2.gif?raw=true)](https://github.com/gregoiregobert/total-perspective-vortex) |
+| <a href="https://github.com/gregoiregobert/total-perspective-vortex"><img src="https://github.com/gregoiregobert/total-perspective-vortex/blob/main/eeg_animation.gif?raw=true" width="250"></a> |
 
 ## Web
 
 | Pong |
 |:---:|
-| [![Pong](https://github.com/gregoiregobert/Pong/blob/master/assets/pong.gif?raw=true)](https://github.com/gregoiregobert/Pong) |
+| <a href="https://github.com/gregoiregobert/Pong"><img src="https://github.com/gregoiregobert/Pong/blob/master/assets/pong.gif?raw=true" width="250"></a> |
 
 ## C Project
 
 | Philosophers |
 |:---:|
-| [![Philosophers](https://github.com/gregoiregobert/Philosophers/blob/master/assets/philo.gif?raw=true)](https://github.com/gregoiregobert/Philosophers) |
+| <a href="https://github.com/gregoiregobert/Philosophers"><img src="https://github.com/gregoiregobert/Philosophers/blob/master/assets/philo.gif?raw=true" width="250"></a> |
