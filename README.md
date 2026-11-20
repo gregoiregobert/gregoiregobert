@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 
 | Total Perspective Vortex |
 |:---:|
-| [![Total Perspective Vortex](https://github.com/gregoiregobert/total-perspective-vortex/blob/main/eeg_animation.gif?raw=true)](https://github.com/gregoiregobert/total-perspective-vortex) |
+| [![Total Perspective Vortex](https://github.com/gregoiregobert/total-perspective-vortex/blob/main/eeg_animation2.gif?raw=true)](https://github.com/gregoiregobert/total-perspective-vortex) |
 
 ## Web
 
