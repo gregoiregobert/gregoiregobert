@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 
 | Linear Regression | DSLR | Gomoku | Total Perspective Vortex |
 |:---:|:---:|:---:|:---:|
-| [![Linear Regression](https://github.com/gregoiregobert/Linear-regression/blob/main/assets/line_reg.gif?raw=true)](https://github.com/gregoiregobert/Linear-regression) | [![DSLR](https://github.com/gregoiregobert/DSLR/blob/main/assets/dslr_3d_graph.gif?raw=true)](https://github.com/gregoiregobert/DSLR) | [![Gomoku](https://github.com/gregoiregobert/Gomoku/blob/main/assets/Gomoku.gif?raw=true)](https://github.com/gregoiregobert/Gomoku) | [![Total Perspective Vortex](https://github.com/gregoiregobert/total-perspective-vortex/blob/main/gif_sim.gif?raw=true)](https://github.com/gregoiregobert/total-perspective-vortex) |
+| [![Linear Regression](https://github.com/gregoiregobert/Linear-regression/blob/main/assets/line_reg.gif?raw=true)](https://github.com/gregoiregobert/Linear-regression) | [![DSLR](https://github.com/gregoiregobert/DSLR/blob/main/assets/dslr_3d_graph.gif?raw=true)](https://github.com/gregoiregobert/DSLR) | [![Gomoku](https://github.com/gregoiregobert/Gomoku/blob/main/assets/Gomoku.gif?raw=true)](https://github.com/gregoiregobert/Gomoku) | [![Total Perspective Vortex](https://github.com/gregoiregobert/total-perspective-vortex/blob/main/eeg_animation.gif?raw=true)](https://github.com/gregoiregobert/total-perspective-vortex) |
 
 ## Web
 
