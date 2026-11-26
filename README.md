@@ -15,9 +15,9 @@ Welcome to my GitHub profile!
 |:---:|:---:|:---:|
 | <a href="https://github.com/gregoiregobert/Linear-regression"><img src="https://github.com/gregoiregobert/Linear-regression/blob/main/assets/line_reg.gif?raw=true" width="250"></a> | <a href="https://github.com/gregoiregobert/DSLR"><img src="https://github.com/gregoiregobert/DSLR/blob/main/assets/dslr_3d_graph.gif?raw=true" width="250"></a> | <a href="https://github.com/gregoiregobert/Gomoku"><img src="https://github.com/gregoiregobert/Gomoku/blob/main/assets/Gomoku.gif?raw=true" width="250"></a> |
 
-| Total Perspective Vortex |
-|:---:|
-| <a href="https://github.com/gregoiregobert/total-perspective-vortex"><img src="https://github.com/gregoiregobert/total-perspective-vortex/blob/main/eeg_animation2.gif?raw=true" width="250"></a> |
+| Total Perspective Vortex | Learn2Slither |
+|:---:|:---:|
+| <a href="https://github.com/gregoiregobert/total-perspective-vortex"><img src="https://github.com/gregoiregobert/total-perspective-vortex/blob/main/eeg_animation2.gif?raw=true" width="250"></a> | <a href="https://github.com/gregoiregobert/learn2slither"><img src="https://github.com/gregoiregobert/learn2slither/blob/main/learn2slither.gif?raw=true" width="250"></a> |
 
 ## Web
 
